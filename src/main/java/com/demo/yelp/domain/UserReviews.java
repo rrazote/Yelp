@@ -22,10 +22,10 @@ import lombok.NoArgsConstructor;
 public class UserReviews implements Serializable{
     
     private static final long serialVersionUID = 1L;
-    private String UserName;
-    private String UserAddress;
-    private String UserReview;
-    private int Stars;
-    private String ImageLink;   
+    private String userName;
+    private String userAddress;
+    private String userReview;
+    private int stars;
+    private String imageLink;   
     
 }
