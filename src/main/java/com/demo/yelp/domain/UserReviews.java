@@ -27,5 +27,6 @@ public class UserReviews implements Serializable{
     private String userReview;
     private int stars;
     private String imageLink;   
+    private String reviewDate;
     
 }

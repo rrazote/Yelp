@@ -8,7 +8,7 @@ public class YelpApplication {
 
     public static void main(String[] args) {
         // https://www.yelp.com/biz/native-burger-san-francisco
-        SpringApplication.run(YelpApplication.class, args); 
+        SpringApplication.run(YelpApplication.class, args);        
     }
 
 }
